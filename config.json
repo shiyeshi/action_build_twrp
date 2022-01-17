@@ -7,7 +7,7 @@
   "dt_url": "shiyeshi/android_device_xiaomi_redmi_bomb",
   "dt_branch": "main",
   "dt_remote": "github",
-  "dt_path": "device/Redmi/bomb",
+  "dt_path": "device/redmi/bomb",
   "device_code": "bomb",
   "use_omin_head": true,
   "use_repair_manifest": false,
